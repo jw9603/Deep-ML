@@ -20,6 +20,7 @@ Filenames follow the problem title in `snake_case`.
 |---|---------|----------|------------|------|
 | 1 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | Linear Algebra | easy | [matrix-vector_dot_product.py](matrix-vector_dot_product.py) |
 | 2 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | Linear Algebra | easy | [transpose_of_a_matrix.py](transpose_of_a_matrix.py) |
+| 3 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | Linear Algebra | easy | [reshape_matrix.py](reshape_matrix.py) |
 
 ## Running
 
