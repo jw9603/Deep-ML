@@ -23,6 +23,7 @@ Filenames follow the problem title in `snake_case`.
 | 3 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | Linear Algebra | easy | [reshape_matrix.py](reshape_matrix.py) |
 | 4 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | Linear Algebra | easy | [calculate_mean_by_row_or_column.py](calculate_mean_by_row_or_column.py) |
 | 5 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | Linear Algebra | easy | [scalar_multiplication_of_a_matrix.py](scalar_multiplication_of_a_matrix.py) |
+| 6 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | Linear Algebra | medium | [calculate_eigenvalues_of_a_matrix.py](calculate_eigenvalues_of_a_matrix.py) |
 
 ## Running
 
